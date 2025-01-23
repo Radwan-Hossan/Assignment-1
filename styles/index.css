@@ -1,0 +1,140 @@
+*fira-sans-thin{
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+
+  }
+body{
+    background-color: #F1F1F3;
+}
+/* share item */
+.bng{
+    color: #0E0E0E;
+}
+
+.btn{
+    border-radius: 8px;
+    border-color: #006A50;
+    text-align: center;
+    color:#006A50;
+    height: 52px;
+    width: 116px;
+}
+.pil-bng{
+    width: 302px;
+    height: 244;
+    padding: 24px;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+}
+.icon-img{
+    
+}
+
+/* Nav var item */
+.nav-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 160px;
+    margin-right: 160px;
+    height: 50px;
+}
+/* banner item */
+.banner{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color:#C6E4D6;
+    border-radius: 24px;
+    padding: 80px;
+    margin-top:10px;
+    /* height: 580px;
+    width: 1280; */
+}
+.sec-bd{
+    font-size: 24px;
+    font-weight: 500;
+}
+.banner-firstdiv{
+    font-weight: 700;
+    font-size: 56px;
+}
+.btn-sec{
+    width: 270px;
+    height: 56px;
+    padding: 17px;
+    align-items: center;
+    background-color: #006A50;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
+/* main main  */
+.head-divof-pillars{
+    margin-top: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.pillars-of-bd{
+    font: bold;
+}
+.sub-divof-pillars{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.container{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.sub-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.digital-transformation{
+    width: 410px;
+    height: 325px;
+    background-color: #5490F5;
+    padding: 32px;
+    border-radius: 16px;
+}
+.green-energy{
+    width: 410px;
+    height: 325px;
+    padding: 32px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+}
+.modern-infra{
+    width: 410px;
+    height: 325px;
+    padding: 32px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+}
+.b-digital-transformation{
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #5490F5;
+    width: 122px;
+    height: 21px;
+    text-align: center;
+}
+.b-green-energy{
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #09A15C;
+    width: 122px;
+    height: 21px;
+    text-align: center;
+}
+.b-modern-infra{
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #FFC239;
+    width: 122px;
+    height: 21px;
+        
+}
