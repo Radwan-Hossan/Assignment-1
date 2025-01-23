@@ -30,6 +30,11 @@ body{
 .icon-img{
     
 }
+.sta-radius{
+    border-radius:24px;
+    width: 408px;
+    height: 306px;
+}
 
 /* Nav var item */
 .nav-div{
@@ -135,6 +140,58 @@ body{
     padding: 20px;
     background-color: #FFC239;
     width: 122px;
-    height: 21px;
-        
+    height: 21px;  
 }
+.younus-div{
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    border-radius: 16px;
+    margin-top: 32px;
+}
+.recent-news{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.main-satalite{
+    margin-top: 32px;
+
+}
+.satlite-one{
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 24px;
+    gap:32px;
+    padding: 48px;
+    margin-bottom: 24px;
+}
+.read-more{
+    width: 139px;
+    height: 48px;
+    padding:6px;
+    border-radius: 8px;
+    background-color: #006A50;
+    justify-content: center;
+    align-items: center;
+}
+.satalite-two{
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 24px;
+    gap:32px;
+    padding: 48px;
+    margin-bottom: 24px;
+}
+.satalite-three{
+    display: flex;
+    background: #FFFFFF;
+    border-radius: 24px;
+    gap:32px;
+    padding: 48px;
+    margin-bottom: 24px;
+}
+
