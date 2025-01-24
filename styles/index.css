@@ -121,26 +121,27 @@ body{
 }
 .b-digital-transformation{
     border-radius: 8px;
-    padding: 20px;
+    /* padding: 0px; */
     background-color: #5490F5;
     width: 122px;
-    height: 21px;
+    height: 48px;
     text-align: center;
 }
 .b-green-energy{
+    margin-top: 40px;
     border-radius: 8px;
-    padding: 20px;
+    /* padding: 20px; */
     background-color: #09A15C;
     width: 122px;
-    height: 21px;
+    height: 48px;
     text-align: center;
 }
 .b-modern-infra{
     border-radius: 8px;
-    padding: 20px;
+    /* padding: 20px; */
     background-color: #FFC239;
     width: 122px;
-    height: 21px;  
+    height: 48px;  
 }
 .younus-div{
     background-image: url(../images/quote-bg.png);
@@ -178,6 +179,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.read-more:hover{
+    background-color: #5490F5;
+}
 .satalite-two{
     display: flex;
     background: #FFFFFF;
@@ -194,4 +198,70 @@ body{
     padding: 48px;
     margin-bottom: 24px;
 }
-
+.donate{
+    margin-left: 160px;
+    margin-right: 160px;
+    /* padding: 60px; */
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.amount{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.donate-btn{
+    height: 108px;
+    padding: 40px;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    gap: 24px;
+    max-width: 264px;
+}
+.donate-btn:hover{
+    background-color: aqua;
+}
+#other-amount{
+    background-color: #FFFFFF;
+    padding: 20px;
+    display: inline-flex;
+}
+.subscribe-section{
+    background-color: #C6E4D6;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 24px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.inside-main-div{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.subscribe-div-two{
+    display: flex;
+}
+#email{
+    width: 600px;
+    height: 48px;
+    padding: px;
+    border-radius: 24px;
+}
+.footer-section{
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+    margin-bottom: 50px;
+}
+.icon-footer{
+    display: flex;
+}
